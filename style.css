@@ -54,9 +54,9 @@ h2 {
   width: 40%;
   margin-left: 5%;
   margin-right: 5%;
-  padding: 0px 20px;
+
+  padding-left: 20px;
   box-shadow: 10px 10px 40px gray;
-  text-align: justify;
   border-radius: 10px;
 }
 #exp-1 {
